@@ -1,0 +1,14 @@
+{
+  "name": "Ymod-call-to-action-center",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Ymod/header-fixed",
+  "authors": [
+    "Marchal yoan <marchalyoan@gmail.com>"
+  ],
+  "description": "",
+  "main": "sass/main.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT"
+}
